@@ -13,4 +13,5 @@ Simple To-Do List built using:
 - Saves data in browser
 
 ## Live Demo
-(Add GitHub Pages link here later)
+
+https://vanran920.github.io/todo-list-app/
